@@ -1,6 +1,6 @@
 This Python script allows you to send the contents of multiple code files to AI models like ChatGPT or Claude for analysis more quickly than manual copy/pasting each one. 
 
-It combines the relevant files into a single text file on your machine that can then be uploaded.
+It combines the relevant files into a single text file on your machine that can then be uploaded manually to ChatGPT or a different AI, or even used for a different purpose entirely.
 
 (Or it can instead read the directory structure of the specified project and put that structure into a text file)
 
